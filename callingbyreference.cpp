@@ -12,6 +12,7 @@ int main()
     int a = 10 , b = 20;
     int *apt = &a , *bpt = &b;
      swap(apt,bpt);
-     cout<<a<<" "<<b;
+     cout<<a<<"ajdjsgit  "<<b;
      return 0;
+     //sfdsf
 }
